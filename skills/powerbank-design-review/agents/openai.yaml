@@ -1,0 +1,4 @@
+interface:
+  display_name: "充电宝资料分析与画板复用"
+  short_description: "核对充电宝原理图、PCB、BOM和芯片资料，形成可追溯的画板依据"
+  default_prompt: "使用 $powerbank-design-review 分析现有充电宝资料，整理保护、采样和版本差异，为嘉立创 EDA 专业版画板准备依据。"
